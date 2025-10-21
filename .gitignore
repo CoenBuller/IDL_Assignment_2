@@ -12,3 +12,5 @@ logs/
 # Ignore environment files
 .env
 .conda
+
+Miniconda3-latest-Linux-x86_64.sh
