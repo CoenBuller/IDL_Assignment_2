@@ -4,7 +4,6 @@ import requests
 import io
 import zipfile
 
-
 #The data comes in two resolutions, one of 75x75 img. and one of 150x150 img.
 url_75 = 'https://surfdrive.surf.nl/index.php/s/Nznt5c48Mzlb2HY/download?path=%2F&files=A1_data_75.zip'
 url_150 = 'https://surfdrive.surf.nl/index.php/s/Nznt5c48Mzlb2HY/download?path=%2F&files=A1_data_150.zip'
