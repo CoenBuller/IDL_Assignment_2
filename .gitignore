@@ -1,15 +1,1 @@
 
-# Ignore compiled files
-*.o
-*.pyc
-
-# Ignore log files
-logs/
-*.log
-
-# Ignore OS files
-.DS_Store
-
-# Ignore environment files
-.env
-.conda
