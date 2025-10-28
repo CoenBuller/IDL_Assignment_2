@@ -15,6 +15,7 @@ logs/
 
 Miniconda3-latest-Linux-x86_64.sh
 data_150
+data_75
 # Ignore data files
 data_75
 data_150
