@@ -15,3 +15,10 @@ logs/
 
 Miniconda3-latest-Linux-x86_64.sh
 data_150
+# Ignore data files
+data_75
+data_150
+.npy
+.npz
+
+Miniconda3-latest-Linux-x86_64.sh
